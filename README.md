@@ -144,3 +144,15 @@ Thanks for visiting my repository!
 If you find it helpful or inspiring, consider giving it a ⭐.
 
 Happy Coding! 🚀
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
