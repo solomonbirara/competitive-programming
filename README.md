@@ -165,6 +165,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0007-reverse-integer) |
 ## Recursion
 |  |
 | ------- |
