@@ -152,11 +152,13 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomonbirara/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Linked List
 |  |
 | ------- |
@@ -178,6 +180,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/solomonbirara/competitive-programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +201,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
+## Sorting
+|  |
+| ------- |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 <!---LeetCode Topics End-->
