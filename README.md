@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ Happy Coding! 🚀
 | [0006-zigzag-conversion](https://github.com/solomonbirara/competitive-programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
 |  |
 | ------- |
