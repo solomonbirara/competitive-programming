@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,10 +195,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomonbirara/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -219,6 +222,7 @@ Happy Coding! 🚀
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -240,4 +244,5 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 <!---LeetCode Topics End-->
