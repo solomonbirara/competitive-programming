@@ -206,6 +206,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/solomonbirara/competitive-programming/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -245,4 +246,8 @@ Happy Coding! 🚀
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/solomonbirara/competitive-programming/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
