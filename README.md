@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -166,6 +167,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomonbirara/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -259,4 +261,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
