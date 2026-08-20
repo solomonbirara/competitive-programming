@@ -193,6 +193,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/solomonbirara/competitive-programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
@@ -270,4 +271,12 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
