@@ -196,6 +196,7 @@ Happy Coding! 🚀
 | [0006-zigzag-conversion](https://github.com/solomonbirara/competitive-programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
@@ -225,6 +226,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0152-maximum-product-subarray) |
 ## Sorting
@@ -284,6 +286,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 ## Radix Sort
 |  |
 | ------- |
@@ -292,4 +295,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
