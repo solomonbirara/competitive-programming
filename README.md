@@ -185,11 +185,13 @@ Happy Coding! 🚀
 | [0007-reverse-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/solomonbirara/competitive-programming/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 ## String
 |  |
 | ------- |
@@ -199,6 +201,7 @@ Happy Coding! 🚀
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
+| [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
@@ -286,6 +289,7 @@ Happy Coding! 🚀
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 ## Bracket Sequences
 |  |
 | ------- |
