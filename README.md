@@ -154,6 +154,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -183,6 +184,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/solomonbirara/competitive-programming/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Recursion
 |  |
@@ -282,6 +284,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
