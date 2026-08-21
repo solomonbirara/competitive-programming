@@ -282,6 +282,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -299,4 +300,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
