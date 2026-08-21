@@ -159,6 +159,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -231,6 +232,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Heap (Priority Queue)
 |  |
