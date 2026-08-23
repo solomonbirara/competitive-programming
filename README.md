@@ -160,6 +160,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -292,6 +293,7 @@ Happy Coding! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
+| [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -313,4 +315,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/solomonbirara/competitive-programming/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
