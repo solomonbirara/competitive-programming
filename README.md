@@ -172,6 +172,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/solomonbirara/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -186,6 +187,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/solomonbirara/competitive-programming/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
@@ -201,6 +203,7 @@ Happy Coding! 🚀
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/solomonbirara/competitive-programming/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/solomonbirara/competitive-programming/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
