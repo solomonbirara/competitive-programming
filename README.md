@@ -196,6 +196,7 @@ Happy Coding! 🚀
 | [0013-roman-to-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2235-add-two-integers](https://github.com/solomonbirara/competitive-programming/tree/master/2235-add-two-integers) |
 ## Recursion
@@ -216,6 +217,7 @@ Happy Coding! 🚀
 | [0022-generate-parentheses](https://github.com/solomonbirara/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
+| [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
@@ -302,6 +304,7 @@ Happy Coding! 🚀
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Stack
 |  |
