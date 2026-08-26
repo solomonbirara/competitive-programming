@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -237,6 +238,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -250,6 +252,7 @@ Happy Coding! 🚀
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
+| [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
