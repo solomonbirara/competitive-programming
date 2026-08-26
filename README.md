@@ -157,6 +157,7 @@ Happy Coding! 🚀
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
@@ -177,6 +178,7 @@ Happy Coding! 🚀
 | [0012-integer-to-roman](https://github.com/solomonbirara/competitive-programming/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/solomonbirara/competitive-programming/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -252,6 +254,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
