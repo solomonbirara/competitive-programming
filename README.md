@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1929-concatenation-of-array](https://github.com/solomonbirara/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
@@ -316,6 +317,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/solomonbirara/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/solomonbirara/competitive-programming/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 ## Stack
 |  |
