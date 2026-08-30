@@ -192,6 +192,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/solomonbirara/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -210,6 +211,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/solomonbirara/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
 ## String
