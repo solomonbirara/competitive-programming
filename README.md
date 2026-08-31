@@ -152,6 +152,7 @@ Happy Coding! 🚀
 | ------- |
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0128-longest-consecutive-sequence](https://github.com/solomonbirara/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/solomonbirara/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -256,6 +257,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomonbirara/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
@@ -312,6 +314,7 @@ Happy Coding! 🚀
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
