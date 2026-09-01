@@ -168,6 +168,7 @@ Happy Coding! 🚀
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1480-running-sum-of-1d-array](https://github.com/solomonbirara/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/solomonbirara/competitive-programming/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/solomonbirara/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -382,4 +383,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/solomonbirara/competitive-programming/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
