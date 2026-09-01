@@ -162,6 +162,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -247,6 +248,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomonbirara/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Divide and Conquer
@@ -255,6 +257,7 @@ Happy Coding! 🚀
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/solomonbirara/competitive-programming/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -394,4 +397,24 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
