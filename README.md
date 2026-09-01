@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/solomonbirara/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/solomonbirara/competitive-programming/tree/master/1672-richest-customer-wealth) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -188,6 +189,7 @@ Happy Coding! 🚀
 | [0219-contains-duplicate-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
@@ -279,6 +281,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
@@ -387,4 +390,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/solomonbirara/competitive-programming/tree/master/1672-richest-customer-wealth) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
