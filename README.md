@@ -167,6 +167,7 @@ Happy Coding! 🚀
 | [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/solomonbirara/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -281,6 +282,7 @@ Happy Coding! 🚀
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomonbirara/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0152-maximum-product-subarray) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/solomonbirara/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Happy Coding! 🚀
 | ------- |
 | [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/solomonbirara/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
