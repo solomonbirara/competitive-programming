@@ -164,6 +164,7 @@ Happy Coding! 🚀
 | [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/solomonbirara/competitive-programming/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/solomonbirara/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
@@ -273,6 +274,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomonbirara/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/solomonbirara/competitive-programming/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
