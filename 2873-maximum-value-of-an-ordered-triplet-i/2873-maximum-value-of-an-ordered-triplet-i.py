@@ -6,8 +6,14 @@ class Solution:
         for i in range(n):
             for j in range(i+1,n):
                 for k in range(j+1,n):
-                    res=(nums[i]-nums[j])*nums[k]
-                    max_res=max(max_res,res)
+                    if i<j<k:
+                        res=(nums[i]-nums[j])*nums[k]
+                        
+                        
+                        max_res=max(max_res,res)
+                        if max_res<0:
+                            max_res==0
+
         return max_res
 
 
