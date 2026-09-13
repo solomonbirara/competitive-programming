@@ -183,6 +183,7 @@ Happy Coding! 🚀
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/solomonbirara/competitive-programming/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Hash Table
@@ -330,6 +331,7 @@ Happy Coding! 🚀
 | [0238-product-of-array-except-self](https://github.com/solomonbirara/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/solomonbirara/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/solomonbirara/competitive-programming/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3346-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/solomonbirara/competitive-programming/tree/master/3346-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Bit Manipulation
 |  |
