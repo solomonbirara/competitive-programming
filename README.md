@@ -182,6 +182,7 @@ Happy Coding! 🚀
 | [1929-concatenation-of-array](https://github.com/solomonbirara/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
+| [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/solomonbirara/competitive-programming/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -201,6 +202,7 @@ Happy Coding! 🚀
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
+| [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
@@ -284,6 +286,7 @@ Happy Coding! 🚀
 | [0283-move-zeroes](https://github.com/solomonbirara/competitive-programming/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -442,4 +445,8 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/solomonbirara/competitive-programming/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
