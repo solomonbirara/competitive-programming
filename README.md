@@ -153,6 +153,7 @@ Happy Coding! 🚀
 | [0001-two-sum](https://github.com/solomonbirara/competitive-programming/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/solomonbirara/competitive-programming/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/solomonbirara/competitive-programming/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/solomonbirara/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -278,6 +279,7 @@ Happy Coding! 🚀
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/solomonbirara/competitive-programming/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/solomonbirara/competitive-programming/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/solomonbirara/competitive-programming/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/solomonbirara/competitive-programming/tree/master/0141-linked-list-cycle) |
@@ -300,6 +302,7 @@ Happy Coding! 🚀
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/solomonbirara/competitive-programming/tree/master/0015-3sum) |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
