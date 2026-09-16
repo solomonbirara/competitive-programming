@@ -183,6 +183,7 @@ Happy Coding! 🚀
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/solomonbirara/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/solomonbirara/competitive-programming/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/solomonbirara/competitive-programming/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-maximum-consecutive-floors-without-special-floors](https://github.com/solomonbirara/competitive-programming/tree/master/2274-maximum-consecutive-floors-without-special-floors) |
 | [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
@@ -206,6 +207,7 @@ Happy Coding! 🚀
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/solomonbirara/competitive-programming/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/solomonbirara/competitive-programming/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -333,6 +335,7 @@ Happy Coding! 🚀
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/solomonbirara/competitive-programming/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2150-find-all-lonely-numbers-in-the-array](https://github.com/solomonbirara/competitive-programming/tree/master/2150-find-all-lonely-numbers-in-the-array) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Quickselect
 |  |
