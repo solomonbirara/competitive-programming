@@ -176,6 +176,7 @@ Happy Coding! 🚀
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/solomonbirara/competitive-programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [1470-shuffle-the-array](https://github.com/solomonbirara/competitive-programming/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/solomonbirara/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/solomonbirara/competitive-programming/tree/master/1672-richest-customer-wealth) |
@@ -202,6 +203,7 @@ Happy Coding! 🚀
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/solomonbirara/competitive-programming/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -248,6 +250,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
+| [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/solomonbirara/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/solomonbirara/competitive-programming/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 ## Sliding Window
