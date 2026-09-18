@@ -173,6 +173,7 @@ Happy Coding! 🚀
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/solomonbirara/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0739-daily-temperatures](https://github.com/solomonbirara/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/solomonbirara/competitive-programming/tree/master/0853-car-fleet) |
+| [0942-di-string-match](https://github.com/solomonbirara/competitive-programming/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/solomonbirara/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/solomonbirara/competitive-programming/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -255,6 +256,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
+| [0942-di-string-match](https://github.com/solomonbirara/competitive-programming/tree/master/0942-di-string-match) |
 | [1108-defanging-an-ip-address](https://github.com/solomonbirara/competitive-programming/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/solomonbirara/competitive-programming/tree/master/1678-goal-parser-interpretation) |
@@ -299,6 +301,7 @@ Happy Coding! 🚀
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/solomonbirara/competitive-programming/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/solomonbirara/competitive-programming/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0942-di-string-match](https://github.com/solomonbirara/competitive-programming/tree/master/0942-di-string-match) |
 | [0977-squares-of-a-sorted-array](https://github.com/solomonbirara/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/solomonbirara/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 ## Dynamic Programming
@@ -364,6 +367,7 @@ Happy Coding! 🚀
 | [0011-container-with-most-water](https://github.com/solomonbirara/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/solomonbirara/competitive-programming/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/solomonbirara/competitive-programming/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0942-di-string-match](https://github.com/solomonbirara/competitive-programming/tree/master/0942-di-string-match) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/solomonbirara/competitive-programming/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Union-Find
 |  |
