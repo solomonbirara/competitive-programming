@@ -13,5 +13,5 @@ class Solution:
                 text+="al"
                 i+=4
             else:
-                break
+                continue
         return text
