@@ -255,6 +255,7 @@ Happy Coding! 🚀
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/solomonbirara/competitive-programming/tree/master/0224-basic-calculator) |
 | [0412-fizz-buzz](https://github.com/solomonbirara/competitive-programming/tree/master/0412-fizz-buzz) |
+| [1108-defanging-an-ip-address](https://github.com/solomonbirara/competitive-programming/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/solomonbirara/competitive-programming/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/solomonbirara/competitive-programming/tree/master/1678-goal-parser-interpretation) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/solomonbirara/competitive-programming/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
