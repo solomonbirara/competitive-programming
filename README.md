@@ -219,6 +219,7 @@ Happy Coding! 🚀
 | [0002-add-two-numbers](https://github.com/solomonbirara/competitive-programming/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/solomonbirara/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/solomonbirara/competitive-programming/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/solomonbirara/competitive-programming/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -285,6 +286,7 @@ Happy Coding! 🚀
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/solomonbirara/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/solomonbirara/competitive-programming/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/solomonbirara/competitive-programming/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/solomonbirara/competitive-programming/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -297,6 +299,7 @@ Happy Coding! 🚀
 | [0027-remove-element](https://github.com/solomonbirara/competitive-programming/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/solomonbirara/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/solomonbirara/competitive-programming/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/solomonbirara/competitive-programming/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/solomonbirara/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/solomonbirara/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/solomonbirara/competitive-programming/tree/master/0283-move-zeroes) |
@@ -318,6 +321,7 @@ Happy Coding! 🚀
 |  |
 | ------- |
 | [0015-3sum](https://github.com/solomonbirara/competitive-programming/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/solomonbirara/competitive-programming/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/solomonbirara/competitive-programming/tree/master/0164-maximum-gap) |
 | [0217-contains-duplicate](https://github.com/solomonbirara/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/solomonbirara/competitive-programming/tree/master/0347-top-k-frequent-elements) |
@@ -454,6 +458,7 @@ Happy Coding! 🚀
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/solomonbirara/competitive-programming/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/solomonbirara/competitive-programming/tree/master/0315-count-of-smaller-numbers-after-self) |
 ## Ordered Set
 |  |
